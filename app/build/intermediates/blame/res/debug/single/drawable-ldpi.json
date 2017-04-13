@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\mail.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-ldpi\\mail.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\share.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-ldpi\\share.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\settings.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-ldpi\\settings.png"
+    }
+]

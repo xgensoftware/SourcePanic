@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_blue" >
+
+    <include
+        android:id="@+id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        layout="@layout/header_layout" >
+    </include>
+
+    <TextView
+        android:id="@+id/TextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/ac_addmessage_create_message"
+        android:textColor="@android:color/white"
+        android:textSize="20dp" />
+
+    <ScrollView
+        android:id="@+id/ac_addmessage_scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/TextView1"
+        android:layout_marginBottom="65dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/FieldsHeaderTheme"
+                android:text="@string/ac_addmessage_name_of_panic" />
+
+            <EditText
+                android:id="@+id/ac_addmessage_name_panic"
+                style="@style/EditTextFullScr"
+                android:inputType="text"
+                android:maxLength="20" />
+
+            <TextView
+                style="@style/FieldsHeaderTheme"
+                android:text="@string/ac_addmessage_destination_numbers" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/ac_addmessage_numbers_panic"
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="0.7"
+                    android:inputType="phone" />
+
+                <Button
+                    android:id="@+id/ac_addmessage_phonebook_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="0.3"
+                    android:text="@string/ac_addmessage_contacts" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ac_addmessage_container_phone_numbers"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <TextView
+                style="@style/FieldsHeaderTheme"
+                android:text="@string/ac_addmessage_text_of_panic" />
+
+            <EditText
+                android:id="@+id/ac_addmessage_text_panic"
+                style="@style/EditTextFullScr"
+                android:inputType="textMultiLine" />
+
+            <!-- Separator -->
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="2dp"
+                android:background="#FFFF0000" />
+
+            <!-- Send options sector -->
+
+            <TextView
+                style="@style/FieldsHeaderTheme"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/ac_addmessage_send_options" />
+
+            <CheckBox
+                android:id="@+id/ac_addnewmessage_addwidgetcheckbox"
+                style="@style/CheckBoxTheme"
+                android:text="@string/ac_addmessage_widget_on_desktop"
+                android:button="@drawable/panic_checkbox" />
+
+            <RadioGroup
+                android:id="@+id/ac_addmessage_radio_ones_click_group"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dip"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/ac_addmessage_radiooneclick"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="@string/ac_addmessage_one_click"
+                    android:button="@drawable/panic_radiobutton" />
+
+                <RadioButton
+                    android:id="@+id/ac_addmessage_radiotwoclick"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="@string/ac_addmessage_two_clicks"
+android:button="@drawable/panic_radiobutton"/>
+            </RadioGroup>
+
+            <CheckBox
+                android:id="@+id/ac_addnewmessage_hidefromhistorycheckbox"
+                style="@style/CheckBoxTheme"
+                android:text="@string/ac_addmessage_hide_from_history"
+                android:button="@drawable/panic_checkbox"
+                />
+
+            <!-- Separator -->
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="2dp"
+                android:background="#FFFF0000" />
+
+            <!-- additional options fields -->
+
+            <TextView
+                style="@style/FieldsHeaderTheme"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/ac_addmessage_additional_options" />
+
+            <CheckBox
+                android:id="@+id/cbStrobSos"
+                style="@style/CheckBoxTheme"
+                android:text="@string/cbStrobSos"
+android:button="@drawable/panic_checkbox"/>
+
+            <CheckBox
+                android:id="@+id/ac_addnewmessage_record_enable"
+                style="@style/CheckBoxTheme"
+                android:text="@string/ac_addmessage_record_enable" 
+                android:button="@drawable/panic_checkbox"/>
+
+            <RadioGroup
+                android:id="@+id/ac_addmessage_radio_record_device_chooser"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/ac_addmessage_radio_dictophone"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:text="@string/ac_addmessage_dictophone"
+android:button="@drawable/panic_radiobutton"/>
+
+                <RadioButton
+                    android:id="@+id/ac_addmessage_radio_camera"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="@string/ac_addmessage_camera"
+                    android:button="@drawable/panic_radiobutton" 
+                    />
+            </RadioGroup>
+
+            <TextView
+                style="@style/FieldsHeaderTheme"
+                android:text="@string/ac_addmessage_show_recording_status" />
+
+            <RadioGroup
+                android:id="@+id/ac_addmesage_radio_show_record_chooser"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/ac_addmessage_radio_full_screen"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:text="@string/ac_addmessage_show_rec_full_screen" 
+                    android:button="@drawable/panic_radiobutton"/>
+
+                <RadioButton
+                    android:id="@+id/ac_addmessage_radio_notification_area"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                    android:text="@string/ac_addmessage_show_rec_notification_area" 
+                    android:button="@drawable/panic_radiobutton"/>
+            </RadioGroup>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginLeft="10dp" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.3"
+                    android:text="@string/ac_addmessage_send"
+                    android:textColor="@android:color/white" 
+                    android:layout_gravity="center_vertical"/>
+
+                <EditText
+                    android:id="@+id/ac_addnewmessage_send_media_ones"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_weight="1"
+                    android:inputType="number" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginLeft="10dp" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.3"
+                    android:text="@string/ac_addmessage_ones_every"
+                    android:textColor="@android:color/white"
+                    android:layout_gravity="center_vertical" />
+
+                <EditText
+                    android:id="@+id/ac_addnewmessage_send_media_frequency"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_weight="1"
+                    android:inputType="number" />
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/ac_addnewmessage_send_email_enable"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ac_addmessage_email"
+                android:button="@drawable/panic_checkbox"
+                 />
+
+            <EditText
+                android:id="@+id/ac_addmessage_send_email_field"
+                style="@style/EditTextFullScr"
+                android:inputType="textEmailAddress" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/ac_addnewmessage_saveexitbutton"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/ac_addmessage_save_and_exit" />
+
+</RelativeLayout>

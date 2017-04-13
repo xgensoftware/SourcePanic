@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ic_widget.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_blue.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\background_blue.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_checked.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_disabled_checked.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\checkbox_disabled_checked.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\radiobutton.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panic_radiobutton.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\panic_radiobutton.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_unchecked.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\checkbox_unchecked.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_large_pressed.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ic_widget_large_pressed.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_background.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\textview_background.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stat_sys_warning.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\stat_sys_warning.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_large_old.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ic_widget_large_old.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sos_icon.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\sos_icon.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_large_portrait1.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ic_widget_large_portrait1.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_header.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\background_header.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vertical_lines.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\vertical_lines.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_large.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ic_widget_large.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_disabled.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\checkbox_disabled.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_activity_send_pressed.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ic_activity_send_pressed.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_large_portrait.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ic_widget_large_portrait.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_widget_large_pressed.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\background_widget_large_pressed.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\corners.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ac_icon_pressed.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ac_icon_pressed.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textura.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\textura.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_down_line.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\header_down_line.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qwic_widget_large.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\qwic_widget_large.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panic_checkbox.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\panic_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_activity_send.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\ic_activity_send.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_unchecked.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable\\radiobutton_unchecked.png"
+    }
+]

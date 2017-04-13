@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dialog_alert_title">Error!</string>
+    <string name="dialog_message_login_activity">Invalid login or password</string>
+    <string name="dialog_btn_login_activity">Ok</string>
+    <string name="dialog_message_error">Unknown error</string>
+    <string name="dialog_message_cell_list_cantScanCode">Can not scan code</string>
+    <string name="dialog_message_cell_list_resItemIsNull">Invalid code</string>
+    <string name="dialog_message_cell_list_cellWasSet">Cell was set</string>
+    <string name="dialog_message_cell_list_cellWasNotSet">Cell was not set</string>
+    <string name="dialog_message_cell_list_cellRemoved">Cell removed</string>
+    <string name="dialog_message_cell_list_cellCanNotRemoved">Cell can not removed</string>
+    <string name="dialog_message_goods_list_headerIsEmpty">Document not found</string>
+    <string name="dialog_message_goods_list_resItemIsNull">Invalid code</string>
+    <string name="dialog_message_input_by_keyboard_barcode_empty_warning">Please, enter value!</string>
+    <string name="dlg_massage_intetrnet_unavailable">Internet is unavailable.</string>
+    <string name="dialog_cell_title">Code of cell</string>
+    <string name="dialog_message_server_not_found">Server not found or not response!</string>
+        
+</resources>

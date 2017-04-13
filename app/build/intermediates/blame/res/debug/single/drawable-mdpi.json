@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_check_on.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-mdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mail.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-mdpi\\mail.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\share.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-mdpi\\share.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_check_off.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-mdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

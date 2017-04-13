@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\Development\Source panic\app\src\main\res"/><source path="E:\Development\Source panic\app\build\generated\res\rs\debug"/><source path="E:\Development\Source panic\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\Development\Source panic\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\Development\Source panic\app\src\main\res"><file name="ac_icon_pressed" path="E:\Development\Source panic\app\src\main\res\drawable\ac_icon_pressed.xml" qualifiers="" type="drawable"/><file name="background_blue" path="E:\Development\Source panic\app\src\main\res\drawable\background_blue.xml" qualifiers="" type="drawable"/><file name="background_header" path="E:\Development\Source panic\app\src\main\res\drawable\background_header.xml" qualifiers="" type="drawable"/><file name="background_widget_large_pressed" path="E:\Development\Source panic\app\src\main\res\drawable\background_widget_large_pressed.xml" qualifiers="" type="drawable"/><file name="checkbox_checked" path="E:\Development\Source panic\app\src\main\res\drawable\checkbox_checked.png" qualifiers="" type="drawable"/><file name="checkbox_disabled" path="E:\Development\Source panic\app\src\main\res\drawable\checkbox_disabled.png" qualifiers="" type="drawable"/><file name="checkbox_disabled_checked" path="E:\Development\Source panic\app\src\main\res\drawable\checkbox_disabled_checked.png" qualifiers="" type="drawable"/><file name="checkbox_unchecked" path="E:\Development\Source panic\app\src\main\res\drawable\checkbox_unchecked.png" qualifiers="" type="drawable"/><file name="corners" path="E:\Development\Source panic\app\src\main\res\drawable\corners.xml" qualifiers="" type="drawable"/><file name="header_down_line" path="E:\Development\Source panic\app\src\main\res\drawable\header_down_line.png" qualifiers="" type="drawable"/><file name="ic_activity_send" path="E:\Development\Source panic\app\src\main\res\drawable\ic_activity_send.png" qualifiers="" type="drawable"/><file name="ic_activity_send_pressed" path="E:\Development\Source panic\app\src\main\res\drawable\ic_activity_send_pressed.png" qualifiers="" type="drawable"/><file name="ic_widget" path="E:\Development\Source panic\app\src\main\res\drawable\ic_widget.png" qualifiers="" type="drawable"/><file name="ic_widget_large" path="E:\Development\Source panic\app\src\main\res\drawable\ic_widget_large.png" qualifiers="" type="drawable"/><file name="ic_widget_large_old" path="E:\Development\Source panic\app\src\main\res\drawable\ic_widget_large_old.png" qualifiers="" type="drawable"/><file name="ic_widget_large_portrait" path="E:\Development\Source panic\app\src\main\res\drawable\ic_widget_large_portrait.png" qualifiers="" type="drawable"/><file name="ic_widget_large_portrait1" path="E:\Development\Source panic\app\src\main\res\drawable\ic_widget_large_portrait1.png" qualifiers="" type="drawable"/><file name="ic_widget_large_pressed" path="E:\Development\Source panic\app\src\main\res\drawable\ic_widget_large_pressed.png" qualifiers="" type="drawable"/><file name="panic_checkbox" path="E:\Development\Source panic\app\src\main\res\drawable\panic_checkbox.xml" qualifiers="" type="drawable"/><file name="panic_radiobutton" path="E:\Development\Source panic\app\src\main\res\drawable\panic_radiobutton.xml" qualifiers="" type="drawable"/><file name="qwic_widget_large" path="E:\Development\Source panic\app\src\main\res\drawable\qwic_widget_large.png" qualifiers="" type="drawable"/><file name="radiobutton" path="E:\Development\Source panic\app\src\main\res\drawable\radiobutton.png" qualifiers="" type="drawable"/><file name="radiobutton_unchecked" path="E:\Development\Source panic\app\src\main\res\drawable\radiobutton_unchecked.png" qualifiers="" type="drawable"/><file name="sos_icon" path="E:\Development\Source panic\app\src\main\res\drawable\sos_icon.png" qualifiers="" type="drawable"/><file name="stat_sys_warning" path="E:\Development\Source panic\app\src\main\res\drawable\stat_sys_warning.png" qualifiers="" type="drawable"/><file name="textura" path="E:\Development\Source panic\app\src\main\res\drawable\textura.png" qualifiers="" type="drawable"/><file name="textview_background" path="E:\Development\Source panic\app\src\main\res\drawable\textview_background.xml" qualifiers="" type="drawable"/><file name="vertical_lines" path="E:\Development\Source panic\app\src\main\res\drawable\vertical_lines.png" qualifiers="" type="drawable"/><file name="btn_check_off" path="E:\Development\Source panic\app\src\main\res\drawable-hdpi\btn_check_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_check_on" path="E:\Development\Source panic\app\src\main\res\drawable-hdpi\btn_check_on.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Development\Source panic\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="mail" path="E:\Development\Source panic\app\src\main\res\drawable-hdpi\mail.png" qualifiers="hdpi-v4" type="drawable"/><file name="settings" path="E:\Development\Source panic\app\src\main\res\drawable-hdpi\settings.png" qualifiers="hdpi-v4" type="drawable"/><file name="share" path="E:\Development\Source panic\app\src\main\res\drawable-hdpi\share.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Development\Source panic\app\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="mail" path="E:\Development\Source panic\app\src\main\res\drawable-ldpi\mail.png" qualifiers="ldpi-v4" type="drawable"/><file name="settings" path="E:\Development\Source panic\app\src\main\res\drawable-ldpi\settings.png" qualifiers="ldpi-v4" type="drawable"/><file name="share" path="E:\Development\Source panic\app\src\main\res\drawable-ldpi\share.png" qualifiers="ldpi-v4" type="drawable"/><file name="btn_check_off" path="E:\Development\Source panic\app\src\main\res\drawable-mdpi\btn_check_off.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_check_on" path="E:\Development\Source panic\app\src\main\res\drawable-mdpi\btn_check_on.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Development\Source panic\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="mail" path="E:\Development\Source panic\app\src\main\res\drawable-mdpi\mail.png" qualifiers="mdpi-v4" type="drawable"/><file name="settings" path="E:\Development\Source panic\app\src\main\res\drawable-mdpi\settings.png" qualifiers="mdpi-v4" type="drawable"/><file name="share" path="E:\Development\Source panic\app\src\main\res\drawable-mdpi\share.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_add_message" path="E:\Development\Source panic\app\src\main\res\layout\ac_add_message.xml" qualifiers="" type="layout"/><file name="ac_configurewidget_list_item" path="E:\Development\Source panic\app\src\main\res\layout\ac_configurewidget_list_item.xml" qualifiers="" type="layout"/><file name="ac_configure_widget" path="E:\Development\Source panic\app\src\main\res\layout\ac_configure_widget.xml" qualifiers="" type="layout"/><file name="ac_keylistener" path="E:\Development\Source panic\app\src\main\res\layout\ac_keylistener.xml" qualifiers="" type="layout"/><file name="ac_messageslist" path="E:\Development\Source panic\app\src\main\res\layout\ac_messageslist.xml" qualifiers="" type="layout"/><file name="ac_sos_button" path="E:\Development\Source panic\app\src\main\res\layout\ac_sos_button.xml" qualifiers="" type="layout"/><file name="ac_strob" path="E:\Development\Source panic\app\src\main\res\layout\ac_strob.xml" qualifiers="" type="layout"/><file name="ac_videocapture_preview" path="E:\Development\Source panic\app\src\main\res\layout\ac_videocapture_preview.xml" qualifiers="" type="layout"/><file name="alertdialog" path="E:\Development\Source panic\app\src\main\res\layout\alertdialog.xml" qualifiers="" type="layout"/><file name="contact_item" path="E:\Development\Source panic\app\src\main\res\layout\contact_item.xml" qualifiers="" type="layout"/><file name="header_layout" path="E:\Development\Source panic\app\src\main\res\layout\header_layout.xml" qualifiers="" type="layout"/><file name="main" path="E:\Development\Source panic\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="message_list_item" path="E:\Development\Source panic\app\src\main\res\layout\message_list_item.xml" qualifiers="" type="layout"/><file name="preferences_layout" path="E:\Development\Source panic\app\src\main\res\layout\preferences_layout.xml" qualifiers="" type="layout"/><file name="smspanic_widget" path="E:\Development\Source panic\app\src\main\res\layout\smspanic_widget.xml" qualifiers="" type="layout"/><file name="smspanic_widget_large" path="E:\Development\Source panic\app\src\main\res\layout\smspanic_widget_large.xml" qualifiers="" type="layout"/><file name="main" path="E:\Development\Source panic\app\src\main\res\layout-land\main.xml" qualifiers="land" type="layout"/><file name="smspanic_widget" path="E:\Development\Source panic\app\src\main\res\layout-land\smspanic_widget.xml" qualifiers="land" type="layout"/><file name="smspanic_widget_large" path="E:\Development\Source panic\app\src\main\res\layout-land\smspanic_widget_large.xml" qualifiers="land" type="layout"/><file path="E:\Development\Source panic\app\src\main\res\values\ac_addmessage.xml" qualifiers=""><string name="ac_addmessage_email_failed">enter correct e-mail and password in application settings</string><string name="ac_addmessage_no">no</string><string name="ac_addmessage_contact_removed">contact has been deleted</string><string name="ac_addmessage_no_contact_name">no name</string><string-array name="spRepeateTimesInMinutes">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array><string name="ac_addmessage_record_enable">Activate recording</string><string name="ac_addmessage_additional_options">Additional options</string><string name="ac_addmessage_show_recording_status">Recording status is displayed in</string><string name="ac_addmessage_dictophone">dictophone</string><string name="ac_addmessage_text_of_panic">text</string><string name="ac_addmessage_hide_from_history">Do not show in the history of sms</string><string name="ac_addmessage_send">Сколько раз записать и отправить</string><string name="ac_addmessage_show_rec_full_screen">full screen</string><string name="ac_addmessage_widget_on_desktop">Create widget on desktop</string><string name="ac_addmessage_destination_numbers">phone number</string><string name="ac_addmessage_ones_every">Длительность каждого ролика:</string><string name="ac_addmessage_email">email</string><string name="ac_addmessage_save_and_exit">Save and Exit</string><string-array name="spRepeateTimesInMinutesValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array><string name="ac_addmessage_send_options">Options for sending</string><string name="tvRepeateTimesInMinutes">How many times a minute</string><string name="ac_addmessage_show_rec_notification_area">notification panel</string><string name="cbStrobSos">Signal SOS (flashlight)</string><string name="ac_addmessage_contacts">contacts</string><string name="ac_addmessage_phone_numbers">numbers</string><string-array name="spRepeateTimes">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>240</item>
+    </string-array><string name="tvRepeateTimes">How many minutes</string><string name="ac_addmessage_one_click">one click</string><string name="ac_addmessage_yes">yes</string><string name="ac_addmessage_delete_query">Delete the number?</string><string name="ac_addmessage_name_of_panic">Name (max 20 char)</string><string name="ac_addmessage_camera">camera</string><string name="ac_addmessage_two_clicks">two clicks</string><string-array name="spRepeateTimesValue">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array><string name="ac_addmessage_name_of_widget">name of widget (max 12 char)</string><string name="ac_addmessage_create_message">Create Message</string></file><file path="E:\Development\Source panic\app\src\main\res\values\ac_messages_list.xml" qualifiers=""><string name="cb_activate">active</string><string name="button_send">send </string><string name="text_instruction">        Instruction:
+        \n\n<a href="http://androids.ru/i/ipanic.htm">Instruction, FAQ, news</a>        \n\n</string><string name="cb_shake">shake </string><string name="ac_messages_list_choose_action_message">select the action</string><string name="shareSubject">Panic button on your phone</string><string name="button_add">add new</string><string name="messages_list">messages list </string><string name="share">Tell a friend</string><string-array name="menuCongratulationTypesActivity_buttonMenu">
+        <item>Instruction</item>
+        <item>Questions</item>
+        <item>Rate</item>
+        <item>Tell a friend</item>
+        <item>Settings</item>
+        <item>Upgrade</item>
+        <item>Follow Us on Twitter</item>
+    </string-array><string name="ac_messages_list_delete_message">delete</string><string name="shareText">Problem? Danger? Tell your friends about this in one click. And they will know your location.</string><string name="text_email_message">Mail.</string><string name="ac_messages_list_warning_message_copied">message is copied</string><string name="ac_messages_list_copy_message">copy</string><string name="text_send_mail">Sending mail...</string><string name="ac_messages_list_warning_message_deleted">message is deleted</string></file><file path="E:\Development\Source panic\app\src\main\res\values\ac_preferences.xml" qualifiers=""><string name="pref_shake_title">Timer to stop sending by shaking</string><string name="pref_email_address_title">Email address</string><string name="pref_email_smtp_port_title">Port of SMTP-server</string><string name="pref_email_password_title">Email password</string><string-array name="listAccelerometer">
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+   <item>4</item>
+   <item>5</item>
+   <item>6</item>
+   <item>7</item>
+   <item>8</item>
+   <item>9</item>
+   <item>10</item>
+</string-array><string name="pref_video_quality_summary">Quality of recorded videos</string><string name="pref_accelerometer_key">sensitivity</string><string name="pref_strob_minutes_key">pref_strob_minutes_key</string><string name="pref_video_angle_summary">Rotation angle of video</string><string name="pref_email_password_summary">Password for your email</string><string name="pref_strob_minutes_title">How many minutes</string><string name="pref_email_smtp_port_dialog_title">Enter port of your SMTP-server (for SSL)</string><string-array name="listVideoQualityValues">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+   </string-array><string name="pref_email_smtp_server_key">smtp_server</string><string-array name="listVideoQuality">
+   <item>Min</item>
+   <item>Balance</item>
+   <item>Max</item>
+   </string-array><string name="pref_email_smtp_server_summary">URL of SMTP-server</string><string-array name="listAngle">
+        <item>0</item>
+        <item>90</item>
+        <item>180</item>
+        <item>270</item>
+    </string-array><string name="pref_shake_key">shake_time</string><string name="accelerometer_preferences_title">Sensitivity of the accelerometer</string><string name="pref_email_smtp_port_summary">Port of SMTP-server (for SSL)</string><string name="pref_accelerometer_summary">Sensitivity of the accelerometer</string><string name="pref_email_smtp_server_dialog_title">Enter address of SMTP-server</string><string name="pref_strob_minutes_summary">How many minutes your phone will send SOS</string><string name="pref_video_angle_title">Rotate video</string><string-array name="listArray">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>
+</string-array><string name="pref_shake_summary">Time, after which the option of sending by shaking is inactive</string><string name="pref_email_address_dialog_title">Enter full email</string><string name="ones_minutes_preferences_title">Number of flashes per minute</string><string name="pref_server_side_header">Email settings</string><string name="pref_email_address_summary">Address for sending your video or audio records</string><string name="pref_email_smtp_port_key">smtp_port</string><string name="pref_email_smtp_server_title">Address of SMTP-server</string><string name="pref_video_quality_key">pref_video_quality_key</string><string name="strob_preferences">Settings of SOS by flashlight</string><string name="pref_ones_minutes_summary">How many times per minute your phone will send SOS</string><string name="pref_email_password_dialog_title">Enter password of email</string><string name="pref_email_password_key">email_password</string><string name="shake_preferences">Settings of sending by shaking phone</string><string name="pref_ones_minutes_key">pref_ones_minutes_key</string><string name="pref_video_angle_key">pref_video_angle_key</string><string name="pref_email_address_key">email_address</string><string name="pref_video_quality_title">Video quaity</string><string-array name="listValues">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>   
+</string-array></file><file path="E:\Development\Source panic\app\src\main\res\values\alertdialogs.xml" qualifiers=""><string name="dialog_message_cell_list_resItemIsNull">Invalid code</string><string name="dialog_message_error">Unknown error</string><string name="dialog_message_cell_list_cellWasNotSet">Cell was not set</string><string name="dialog_cell_title">Code of cell</string><string name="dialog_message_cell_list_cellRemoved">Cell removed</string><string name="dialog_message_goods_list_resItemIsNull">Invalid code</string><string name="dialog_alert_title">Error!</string><string name="dialog_message_cell_list_cellCanNotRemoved">Cell can not removed</string><string name="dialog_btn_login_activity">Ok</string><string name="dialog_message_goods_list_headerIsEmpty">Document not found</string><string name="dialog_message_server_not_found">Server not found or not response!</string><string name="dialog_message_input_by_keyboard_barcode_empty_warning">Please, enter value!</string><string name="dialog_message_login_activity">Invalid login or password</string><string name="dialog_message_cell_list_cantScanCode">Can not scan code</string><string name="dialog_message_cell_list_cellWasSet">Cell was set</string><string name="dlg_massage_intetrnet_unavailable">Internet is unavailable.</string></file><file path="E:\Development\Source panic\app\src\main\res\values\strings.xml" qualifiers=""><string name="statuBarRecord">Panic Button: recording</string><string name="text_message">Text of message:</string><string name="app_name">Panic Button</string><string name="strob_cancel">Stop strobe?</string><string name="large_widget_name">Panic Button 2x4</string><string name="button_text">Update</string><string name="button_contacts">Your contacts</string><string name="not_valid_number">Не верный формат одного или нескольких номеров. Они не были сохранены</string><string name="small_widget_name">Panic Button 1x1</string><string name="mail_default_smtp_server">smtp.server.com</string><string name="mail_default_account">default@server.com</string><string name="mail_default_port">465</string><string name="put_your_message">Put your text here</string><string name="mail_gmail_smtp_server">smtp.gmail.com</string><string name="destination_adress">Destination address:</string></file><file path="E:\Development\Source panic\app\src\main\res\values\style.xml" qualifiers=""><style name="EditTextFullScr" parent="@style/CommonTheme">
+        <item name="android:layout_width">250dip</item>
+    </style><style name="CheckBoxTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dip</item>
+    </style><style name="FieldsHeaderTheme" parent="@style/CommonTheme">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style><style name="Theme_WhiteText">
+        <item name="android:textColor">#ffffff</item>
+    </style><style name="CommonTheme">
+        <item name="android:layout_marginTop">10dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+    </style><style name="Theme.NotTransparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowBackground">@android:drawable/title_bar</item>
+        <item name="android:windowContentOverlay">@android:drawable/title_bar</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="newWorldRadioButtonStyle" parent="@style/CommonTheme">
+        <item name="android:layout_width">wrap_content</item>
+    </style><style name="SpinnerTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:padding">5dip</item>
+    </style></file><file path="E:\Development\Source panic\app\src\main\res\values-ru\ac_addmessage.xml" qualifiers="ru"><string name="cbStrobSos">Сигнал SOS (фонариком)</string><string name="ac_addmessage_email">email</string><string-array name="spRepeateTimes">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>240</item>
+    </string-array><string name="ac_addmessage_one_click">один клик</string><string name="ac_addmessage_delete_query">Удалить номер?</string><string name="ac_addmessage_contacts">Контакты</string><string name="ac_addmessage_create_message">Создать сообщение</string><string name="ac_addmessage_record_enable">Делать запись</string><string-array name="spRepeateTimesInMinutes">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array><string name="ac_addmessage_send">Сколько раз записать и отправить:</string><string name="ac_addmessage_no">нет</string><string name="ac_addmessage_destination_numbers">Номер адресата</string><string name="tvRepeateTimesInMinutes">Сколько раз в минуту</string><string name="ac_addmessage_widget_on_desktop">создать виджет на рабочем столе</string><string name="ac_addmessage_hide_from_history">Не показывать в истории sms</string><string name="ac_addmessage_camera">камера</string><string name="ac_addmessage_yes">да</string><string name="ac_addmessage_name_of_panic">Название (до 20 знаков)</string><string name="ac_addmessage_send_options">Опции отправки</string><string-array name="spRepeateTimesValue">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array><string name="ac_addmessage_no_contact_name">не указано имя</string><string name="ac_addmessage_contact_removed">контакт удалён</string><string name="ac_addmessage_additional_options">Дополнительные опции</string><string-array name="spRepeateTimesInMinutesValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array><string name="ac_addmessage_two_clicks">два клика</string><string name="ac_addmessage_ones_every">Длительность каждого ролика:</string><string name="ac_addmessage_phone_numbers">телефонные номера</string><string name="ac_addmessage_show_rec_full_screen">экран</string><string name="ac_addmessage_name_of_widget">Имя виджета (до 12 знаков)</string><string name="tvRepeateTimes">Сколько минут</string><string name="ac_addmessage_email_failed">Введите коректный емеил и пароль в настройках приложения</string><string name="ac_addmessage_show_recording_status">Показывать статус записи</string><string name="ac_addmessage_dictophone">диктофон</string><string name="ac_addmessage_save_and_exit">Сохранить и выйти</string><string name="ac_addmessage_text_of_panic">Текст</string><string name="ac_addmessage_show_rec_notification_area">панель уведомлений</string></file><file path="E:\Development\Source panic\app\src\main\res\values-ru\ac_messages_list.xml" qualifiers="ru"><string name="ac_messages_list_warning_message_deleted">Сообщение удалено</string><string name="ac_messages_list_warning_message_copied">Сообщение скопировано</string><string-array name="menuCongratulationTypesActivity_buttonMenu">
+        <item>Инструкция</item>
+        <item>Вопросы</item>
+        <item>Оцените программу</item>
+        <item>Рассказать другу</item>
+        <item>Настройки</item>
+        <item>Больше опций</item>
+        <item>Follow Us on Twitter</item>
+    </string-array><string name="shareSubject">Тревожная кнопка для Android</string><string name="shareText">У вас проблема? Сообщите друзьям об этом в один клик. Также они узнают ваше местонахождение!</string><string name="ac_messages_list_copy_message">копировать</string><string name="text_email_message">Mail.</string><string name="share">Поделиться</string><string name="ac_messages_list_delete_message">удалить</string><string name="text_send_mail">Sending mail...</string><string name="text_instruction">        Инструкция:
+        \n\n<a href="http://androids.ru/i/ipanic.htm">Инструкция, FAQ</a>        \n\n</string><string name="ac_messages_list_choose_action_message">Выберите действие</string></file><file path="E:\Development\Source panic\app\src\main\res\values-ru\ac_preferences.xml" qualifiers="ru"><string-array name="listVideoQuality">
+   <item>Низкое</item>
+   <item>Среднее</item>
+   <item>Высокое</item>
+   </string-array><string name="pref_video_angle_summary">На какой угол поворачивать изображение</string><string-array name="listValues">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>   
+</string-array><string name="pref_email_address_dialog_title">Введите полный адрес</string><string name="pref_email_password_key">email_password</string><string name="pref_email_address_key">email_address</string><string name="pref_accelerometer_summary">Чувствительность акселерометра</string><string name="pref_video_angle_title">Угол поворота изображения</string><string name="pref_strob_minutes_summary">Сколько минут ваш телефон будет посылать SOS</string><string name="pref_email_password_summary">Пароль для email</string><string name="pref_email_smtp_port_summary">Порт SMTP-сервера (SSL)</string><string name="pref_email_smtp_server_summary">URL для SMTP-сервера</string><string name="shake_preferences">Настройки отправки встряхиванием телефона</string><string name="pref_video_angle_key">pref_video_angle_key</string><string name="pref_email_address_summary">Email для отправки видео или аудио</string><string name="pref_shake_summary">Время, после чего возможность отправки путем встряхивания неактивно</string><string name="pref_shake_title">Таймер, чтобы прекратить отправку встряхиванием</string><string name="pref_email_smtp_server_key">smtp_server</string><string name="strob_preferences">Настройки сигнала SOS (фонариком)</string><string-array name="listAccelerometer">
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+   <item>4</item>
+   <item>5</item>
+   <item>6</item>
+   <item>7</item>
+   <item>8</item>
+   <item>9</item>
+   <item>10</item>
+</string-array><string name="pref_email_smtp_server_title">Адрес SMTP-сервера</string><string name="pref_server_side_header">Настройки электронной почты</string><string name="pref_email_smtp_port_dialog_title">Введите порт вашего SMTP-сервера (для SSL)</string><string name="pref_strob_minutes_title">Сколько минут</string><string name="pref_email_smtp_port_key">smtp_port</string><string-array name="listArray">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>
+</string-array><string name="accelerometer_preferences_title">Чувствительность акселерометра</string><string name="pref_email_password_title">Пароль</string><string name="pref_ones_minutes_key">pref_ones_minutes_key</string><string name="pref_email_password_dialog_title">Введите пароль электронной почты</string><string name="pref_strob_minutes_key">pref_strob_minutes_key</string><string name="pref_accelerometer_key">чувствительность</string><string name="pref_video_quality_title">Качество видео</string><string name="pref_ones_minutes_summary">Сколько раз в минуту телефон будет посылать SOS</string><string name="pref_email_smtp_server_dialog_title">Введите адрес SMTP-сервера</string><string name="pref_shake_key">shake_time</string><string name="ones_minutes_preferences_title">Количество вспышек в минуту</string><string name="pref_email_smtp_port_title">Порт SMTP-сервера</string><string name="pref_email_address_title">Адрес email</string><string name="pref_video_quality_summary">Качество записываемого видео</string></file><file path="E:\Development\Source panic\app\src\main\res\values-ru\alertdialogs.xml" qualifiers="ru"><string name="dialog_alert_title">Error!</string><string name="dialog_message_cell_list_cellWasNotSet">Cell was not set</string><string name="dialog_cell_title">Code of cell</string><string name="dialog_btn_login_activity">Ok</string><string name="dialog_message_login_activity">Invalid login or password</string><string name="dialog_message_cell_list_cantScanCode">Can not scan code</string><string name="dialog_message_cell_list_resItemIsNull">Invalid code</string><string name="dialog_message_cell_list_cellRemoved">Cell removed</string><string name="dialog_message_input_by_keyboard_barcode_empty_warning">Please, enter value!</string><string name="dialog_message_cell_list_cellWasSet">Cell was set</string><string name="dialog_message_goods_list_resItemIsNull">Invalid code</string><string name="dialog_message_error">Unknown error</string><string name="dialog_message_cell_list_cellCanNotRemoved">Cell can not removed</string><string name="dialog_message_server_not_found">Server not found or not response!</string><string name="dialog_message_goods_list_headerIsEmpty">Document not found</string><string name="dlg_massage_intetrnet_unavailable">Internet is unavailable.</string></file><file path="E:\Development\Source panic\app\src\main\res\values-ru\strings.xml" qualifiers="ru"><string name="text_message">Текст сообщения:</string><string name="put_your_message">Введите текст здесь</string><string name="mail_default_account">default@server.com</string><string name="statuBarRecord">Тревожная кнопка: запись</string><string name="not_valid_number">Не верный формат одного или нескольких номеров. Они не были сохранены</string><string name="large_widget_name">Тревожная кнопка 2x4</string><string name="strob_cancel">Выключить вспышку?</string><string name="button_text">обновить</string><string name="destination_adress">Адрес назначения:</string><string name="mail_default_port">465</string><string name="small_widget_name">Тревожная кнопка 1x1</string><string name="button_contacts">Ваши контакты</string><string name="mail_default_smtp_server">smtp.server.com</string><string name="app_name">Тревожная кнопка</string><string name="mail_gmail_smtp_server">smtp.gmail.com</string></file><file name="preferences" path="E:\Development\Source panic\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/><file name="widget_provider" path="E:\Development\Source panic\app\src\main\res\xml\widget_provider.xml" qualifiers="" type="xml"/><file name="widget_provider_large" path="E:\Development\Source panic\app\src\main\res\xml\widget_provider_large.xml" qualifiers="" type="xml"/></source><source path="E:\Development\Source panic\app\build\generated\res\rs\debug"/><source path="E:\Development\Source panic\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\Development\Source panic\app\src\debug\res"/></dataSet><mergedItems/></merger>

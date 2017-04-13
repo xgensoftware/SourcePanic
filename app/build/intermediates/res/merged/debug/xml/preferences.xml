@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:dialogTitle="@string/pref_email_address_dialog_title"
+        android:key="@string/pref_email_address_key"
+        android:summary="@string/pref_email_address_summary"
+        android:title="@string/pref_email_address_title" />
+    <EditTextPreference
+        android:dialogTitle="@string/pref_email_password_dialog_title"
+        android:inputType="textPassword"
+        android:key="@string/pref_email_password_key"
+        android:summary="@string/pref_email_password_summary"
+        android:title="@string/pref_email_password_title" />
+    <EditTextPreference
+        android:defaultValue="@string/mail_default_port"
+        android:dialogTitle="@string/pref_email_smtp_port_dialog_title"
+        android:key="@string/pref_email_smtp_port_key"
+        android:summary="@string/pref_email_smtp_port_summary"
+        android:title="@string/pref_email_smtp_port_title" />
+    <EditTextPreference
+        android:defaultValue="@string/mail_gmail_smtp_server"
+        android:dialogTitle="@string/pref_email_smtp_server_dialog_title"
+        android:key="@string/pref_email_smtp_server_key"
+        android:summary="@string/pref_email_smtp_server_summary"
+        android:title="@string/pref_email_smtp_server_title" />
+
+    <ListPreference
+        android:defaultValue="5"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues"
+        android:key="@string/pref_shake_key"
+        android:summary="@string/pref_shake_summary"
+        android:title="@string/pref_shake_title" />
+    <ListPreference
+        android:defaultValue="5"
+        android:entries="@array/listAccelerometer"
+        android:entryValues="@array/listAccelerometer"
+        android:key="@string/pref_accelerometer_key"
+        android:summary="@string/pref_accelerometer_summary"
+        android:title="@string/accelerometer_preferences_title" />
+    <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/spRepeateTimesInMinutes"
+        android:entryValues="@array/spRepeateTimesInMinutesValues"
+        android:key="@string/pref_ones_minutes_key"
+        android:summary="@string/pref_ones_minutes_summary"
+        android:title="@string/ones_minutes_preferences_title" />
+    <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/spRepeateTimes"
+        android:entryValues="@array/spRepeateTimesValue"
+        android:key="@string/pref_strob_minutes_key"
+        android:summary="@string/pref_strob_minutes_summary"
+        android:title="@string/pref_strob_minutes_title" />
+    
+     <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/listAngle"
+        android:entryValues="@array/listAngle"
+        android:key="@string/pref_video_angle_key"
+        android:summary="@string/pref_video_angle_summary"
+        android:title="@string/pref_video_angle_title" />
+     
+      <ListPreference
+        android:defaultValue="0"
+        android:entries="@array/listVideoQuality"
+        android:entryValues="@array/listVideoQualityValues"
+        android:key="@string/pref_video_quality_key"
+        android:summary="@string/pref_video_quality_summary"
+        android:title="@string/pref_video_quality_title" />
+
+</PreferenceScreen>

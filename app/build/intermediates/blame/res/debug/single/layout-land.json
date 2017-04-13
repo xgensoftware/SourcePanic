@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\smspanic_widget_large.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout-land\\smspanic_widget_large.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\smspanic_widget.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout-land\\smspanic_widget.xml"
+    }
+]

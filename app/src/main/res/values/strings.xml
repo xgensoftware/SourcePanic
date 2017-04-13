@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mail_default_account">default@server.com</string>
+    <string name="mail_default_port">465</string>
+    <string name="mail_default_smtp_server">smtp.server.com</string>
+    <string name="mail_gmail_smtp_server">smtp.gmail.com</string>
+    
+    <string name="app_name">Panic Button</string>
+    <string name="destination_adress">Destination address:</string>
+    <string name="text_message">Text of message:</string>
+    <string name="button_text">Update</string>
+    <string name="put_your_message">Put your text here</string>
+    <string name="not_valid_number">Не верный формат одного или нескольких номеров. Они не были сохранены</string>
+    <string name="button_contacts">Your contacts</string>
+        <string name="small_widget_name">Panic Button 1x1</string>
+        <string name="large_widget_name">Panic Button 2x4</string>
+        <string name="statuBarRecord">Panic Button: recording</string>
+        <string name="strob_cancel">Stop strobe?</string>
+
+   
+
+</resources>

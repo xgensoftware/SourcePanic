@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ac_addmessage_create_message">Create Message</string>
+    <string name="ac_addmessage_name_of_panic">Name (max 20 char)</string>
+    <string name="ac_addmessage_destination_numbers">phone number</string>
+    <string name="ac_addmessage_contacts">contacts</string>
+    <string name="ac_addmessage_text_of_panic">text</string>
+    
+    <string name="ac_addmessage_send_options">Options for sending</string>
+    <string name="ac_addmessage_widget_on_desktop">Create widget on desktop</string>
+    <string name="ac_addmessage_name_of_widget">name of widget (max 12 char)</string>
+    <string name="ac_addmessage_one_click">one click</string>
+    <string name="ac_addmessage_two_clicks">two clicks</string>
+    <string name="ac_addmessage_hide_from_history">Do not show in the history of sms</string>
+    
+    <string name="ac_addmessage_additional_options">Additional options</string>
+    <string name="cbStrobSos">Signal SOS (flashlight)</string>
+    <string name="tvRepeateTimesInMinutes">How many times a minute</string>
+    <string name="tvRepeateTimes">How many minutes</string>
+    
+    <string name="ac_addmessage_record_enable">Activate recording</string>
+    <string name="ac_addmessage_show_recording_status">Recording status is displayed in</string>
+    <string name="ac_addmessage_show_rec_full_screen">full screen</string>
+    <string name="ac_addmessage_show_rec_notification_area">notification panel</string>
+    <string name="ac_addmessage_dictophone">dictophone</string>
+    <string name="ac_addmessage_camera">camera</string>
+    <string name="ac_addmessage_send">Сколько раз записать и отправить</string>
+	<string name="ac_addmessage_ones_every">Длительность каждого ролика:</string>
+	<string name="ac_addmessage_phone_numbers">numbers</string>
+	<string name="ac_addmessage_email">email</string>
+	<string name="ac_addmessage_save_and_exit">Save and Exit</string>
+
+	
+    <string name="ac_addmessage_no_contact_name">no name</string>
+    <string name="ac_addmessage_yes">yes</string>
+    <string name="ac_addmessage_no">no</string>
+    <string name="ac_addmessage_delete_query">Delete the number?</string>
+    <string name="ac_addmessage_contact_removed">contact has been deleted</string>  
+    
+    <string name="ac_addmessage_email_failed">enter correct e-mail and password in application settings</string>  
+    
+    <string-array name="spRepeateTimesInMinutes">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >5</item>
+    </string-array>
+    <string-array name="spRepeateTimesInMinutesValues">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+    </string-array>
+    <string-array name="spRepeateTimes">
+        <item >10</item>
+        <item >20</item>
+        <item >30</item>
+        <item >60</item>
+        <item >90</item>
+        <item >120</item>
+        <item >240</item>
+    </string-array>
+    <string-array name="spRepeateTimesValue">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+    </string-array>
+</resources>

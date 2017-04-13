@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_server_side_header">Настройки электронной почты</string>
+    
+    <string name="pref_email_address_key">email_address</string>
+    <string name="pref_email_address_title">Адрес email</string>
+    <string name="pref_email_address_dialog_title">Введите полный адрес</string>
+    <string name="pref_email_address_summary">Email для отправки видео или аудио</string>
+    
+    <string name="pref_email_password_key">email_password</string>
+    <string name="pref_email_password_title">Пароль</string>
+    <string name="pref_email_password_dialog_title">Введите пароль электронной почты</string>
+    <string name="pref_email_password_summary">Пароль для email</string>
+    
+    <string name="pref_email_smtp_server_key">smtp_server</string>
+    <string name="pref_email_smtp_server_title">Адрес SMTP-сервера</string>
+    <string name="pref_email_smtp_server_dialog_title">Введите адрес SMTP-сервера</string>
+    <string name="pref_email_smtp_server_summary">URL для SMTP-сервера</string>
+    
+    <string name="pref_email_smtp_port_key">smtp_port</string>
+    <string name="pref_email_smtp_port_title">Порт SMTP-сервера</string>
+    <string name="pref_email_smtp_port_dialog_title">Введите порт вашего SMTP-сервера (для SSL)</string>
+    <string name="pref_email_smtp_port_summary">Порт SMTP-сервера (SSL)</string>
+    
+    <string name="shake_preferences">Настройки отправки встряхиванием телефона</string>
+    <string name="pref_shake_title">Таймер, чтобы прекратить отправку встряхиванием</string>
+    <string name="pref_shake_summary">Время, после чего возможность отправки путем встряхивания неактивно</string>
+    <string name="pref_shake_key">shake_time</string>
+    
+    <string name="accelerometer_preferences_title">Чувствительность акселерометра</string>
+    <string name="pref_accelerometer_summary">Чувствительность акселерометра</string>
+    <string name="pref_accelerometer_key">чувствительность</string>
+    
+    <string name="strob_preferences">Настройки сигнала SOS (фонариком)</string>
+    <string name="ones_minutes_preferences_title">Количество вспышек в минуту</string>
+    <string name="pref_ones_minutes_summary">Сколько раз в минуту телефон будет посылать SOS</string>
+    <string name="pref_ones_minutes_key">pref_ones_minutes_key</string>
+    
+    <string name="pref_strob_minutes_title">Сколько минут</string>
+    <string name="pref_strob_minutes_summary">Сколько минут ваш телефон будет посылать SOS</string>
+    <string name="pref_strob_minutes_key">pref_strob_minutes_key</string>
+    
+    <string name="pref_video_angle_title">Угол поворота изображения</string>
+    <string name="pref_video_angle_summary">На какой угол поворачивать изображение</string>
+    <string name="pref_video_angle_key">pref_video_angle_key</string>
+     
+    <string name="pref_video_quality_title">Качество видео</string>
+    <string name="pref_video_quality_summary">Качество записываемого видео</string>
+
+    
+    
+   <string-array name="listVideoQuality">
+   <item>Низкое</item>
+   <item>Среднее</item>
+   <item>Высокое</item>
+   </string-array>
+   
+     
+<string-array name="listArray">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>
+</string-array>
+ 
+<string-array name="listValues">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>   
+</string-array>
+
+<string-array name="listAccelerometer">
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+   <item>4</item>
+   <item>5</item>
+   <item>6</item>
+   <item>7</item>
+   <item>8</item>
+   <item>9</item>
+   <item>10</item>
+</string-array>
+
+</resources>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_configurewidget_list_item.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\ac_configurewidget_list_item.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preferences_layout.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\preferences_layout.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_messageslist.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\ac_messageslist.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_strob.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\ac_strob.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_sos_button.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\ac_sos_button.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_list_item.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\message_list_item.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smspanic_widget.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\smspanic_widget.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\contact_item.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_add_message.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\ac_add_message.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\alertdialog.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_keylistener.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\ac_keylistener.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smspanic_widget_large.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\smspanic_widget_large.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_configure_widget.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\ac_configure_widget.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_videocapture_preview.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\layout\\ac_videocapture_preview.xml"
+    }
+]

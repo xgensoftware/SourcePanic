@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ac_messages_list_copy_message">копировать</string>
+    <string name="ac_messages_list_delete_message">удалить</string>
+    <string name="ac_messages_list_choose_action_message">Выберите действие</string>
+    <string name="ac_messages_list_warning_message_deleted">Сообщение удалено</string>
+    <string name="ac_messages_list_warning_message_copied">Сообщение скопировано</string>
+    <string name="share">Поделиться</string>
+    <string name="shareSubject">Тревожная кнопка для Android</string>
+    <string name="shareText">У вас проблема? Сообщите друзьям об этом в один клик. Также они узнают ваше местонахождение!</string>
+    <string name="text_send_mail">Sending mail...</string>
+    <string name="text_email_message">Mail.</string>
+
+    <string-array name="menuCongratulationTypesActivity_buttonMenu">
+        <item>Инструкция</item>
+        <item>Вопросы</item>
+        <item>Оцените программу</item>
+        <item>Рассказать другу</item>
+        <item>Настройки</item>
+        <item>Больше опций</item>
+        <item>Follow Us on Twitter</item>
+    </string-array>
+
+    <string name="text_instruction">        Инструкция:
+        \n\n<a href="http://androids.ru/i/ipanic.htm">Инструкция, FAQ</a>        \n\n</string>
+
+</resources>

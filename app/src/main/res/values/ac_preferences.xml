@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_server_side_header">Email settings</string>
+    
+    <string name="pref_email_address_key">email_address</string>
+    <string name="pref_email_address_title">Email address</string>
+    <string name="pref_email_address_dialog_title">Enter full email</string>
+    <string name="pref_email_address_summary">Address for sending your video or audio records</string>
+    
+    <string name="pref_email_password_key">email_password</string>
+    <string name="pref_email_password_title">Email password</string>
+    <string name="pref_email_password_dialog_title">Enter password of email</string>
+    <string name="pref_email_password_summary">Password for your email</string>
+    
+    <string name="pref_email_smtp_server_key">smtp_server</string>
+    <string name="pref_email_smtp_server_title">Address of SMTP-server</string>
+    <string name="pref_email_smtp_server_dialog_title">Enter address of SMTP-server</string>
+    <string name="pref_email_smtp_server_summary">URL of SMTP-server</string>
+    
+    <string name="pref_email_smtp_port_key">smtp_port</string>
+    <string name="pref_email_smtp_port_title">Port of SMTP-server</string>
+    <string name="pref_email_smtp_port_dialog_title">Enter port of your SMTP-server (for SSL)</string>
+    <string name="pref_email_smtp_port_summary">Port of SMTP-server (for SSL)</string>
+    
+    <string name="shake_preferences">Settings of sending by shaking phone</string>
+    <string name="pref_shake_title">Timer to stop sending by shaking</string>
+    <string name="pref_shake_summary">Time, after which the option of sending by shaking is inactive</string>
+    <string name="pref_shake_key">shake_time</string>
+    
+    <string name="accelerometer_preferences_title">Sensitivity of the accelerometer</string>
+    <string name="pref_accelerometer_summary">Sensitivity of the accelerometer</string>
+    <string name="pref_accelerometer_key">sensitivity</string>
+    
+    <string name="strob_preferences">Settings of SOS by flashlight</string>
+    <string name="ones_minutes_preferences_title">Number of flashes per minute</string>
+    <string name="pref_ones_minutes_summary">How many times per minute your phone will send SOS</string>
+    <string name="pref_ones_minutes_key">pref_ones_minutes_key</string>
+    
+    <string name="pref_strob_minutes_title">How many minutes</string>
+    <string name="pref_strob_minutes_summary">How many minutes your phone will send SOS</string>
+    <string name="pref_strob_minutes_key">pref_strob_minutes_key</string>
+    
+    <string name="pref_video_angle_title">Rotate video</string>
+    <string name="pref_video_angle_summary">Rotation angle of video</string>
+    <string name="pref_video_angle_key">pref_video_angle_key</string>
+    
+      <string name="pref_video_quality_title">Video quaity</string>
+    <string name="pref_video_quality_summary">Quality of recorded videos</string>
+    <string name="pref_video_quality_key">pref_video_quality_key</string>
+    
+
+<string-array name="listArray">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>
+</string-array>
+ 
+<string-array name="listValues">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>   
+</string-array>
+
+<string-array name="listAccelerometer">
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+   <item>4</item>
+   <item>5</item>
+   <item>6</item>
+   <item>7</item>
+   <item>8</item>
+   <item>9</item>
+   <item>10</item>
+</string-array>
+
+ <string-array name="listAngle">
+        <item>0</item>
+        <item>90</item>
+        <item>180</item>
+        <item>270</item>
+    </string-array>
+    
+   <string-array name="listVideoQuality">
+   <item>Min</item>
+   <item>Balance</item>
+   <item>Max</item>
+   </string-array>
+   
+   <string-array name="listVideoQualityValues">
+   <item>0</item>
+   <item>1</item>
+   <item>2</item>
+   </string-array>
+ 
+</resources>

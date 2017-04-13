@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ac_addmessage_create_message">Создать сообщение</string>
+    <string name="ac_addmessage_name_of_panic">Название (до 20 знаков)</string>
+    <string name="ac_addmessage_destination_numbers">Номер адресата</string>
+    <string name="ac_addmessage_contacts">Контакты</string>
+    <string name="ac_addmessage_text_of_panic">Текст</string>
+    
+    <string name="ac_addmessage_send_options">Опции отправки</string>
+    <string name="ac_addmessage_widget_on_desktop">создать виджет на рабочем столе</string>
+    <string name="ac_addmessage_name_of_widget">Имя виджета (до 12 знаков)</string>
+    <string name="ac_addmessage_one_click">один клик</string>
+    <string name="ac_addmessage_two_clicks">два клика</string>
+    <string name="ac_addmessage_hide_from_history">Не показывать в истории sms</string>
+    
+    <string name="ac_addmessage_additional_options">Дополнительные опции</string>
+    <string name="cbStrobSos">Сигнал SOS (фонариком)</string>
+    <string name="tvRepeateTimesInMinutes">Сколько раз в минуту</string>
+    <string name="tvRepeateTimes">Сколько минут</string>
+    
+    <string name="ac_addmessage_record_enable">Делать запись</string>
+    <string name="ac_addmessage_show_recording_status">Показывать статус записи</string>
+    <string name="ac_addmessage_show_rec_full_screen">экран</string>
+    <string name="ac_addmessage_show_rec_notification_area">панель уведомлений</string>
+    <string name="ac_addmessage_dictophone">диктофон</string>
+    <string name="ac_addmessage_camera">камера</string>
+    <string name="ac_addmessage_send">Сколько раз записать и отправить:</string>
+	<string name="ac_addmessage_ones_every">Длительность каждого ролика:</string>
+	<string name="ac_addmessage_phone_numbers">телефонные номера</string>
+	<string name="ac_addmessage_email">email</string>
+	<string name="ac_addmessage_save_and_exit">Сохранить и выйти</string>
+
+	
+    <string name="ac_addmessage_no_contact_name">не указано имя</string>
+    <string name="ac_addmessage_yes">да</string>
+    <string name="ac_addmessage_no">нет</string>
+    <string name="ac_addmessage_delete_query">Удалить номер?</string>
+    <string name="ac_addmessage_contact_removed">контакт удалён</string>  
+    
+    <string name="ac_addmessage_email_failed">Введите коректный емеил и пароль в настройках приложения</string>  
+        
+    <string-array name="spRepeateTimesInMinutes">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >5</item>
+    </string-array>
+    <string-array name="spRepeateTimesInMinutesValues">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+    </string-array>
+    <string-array name="spRepeateTimes">
+        <item >10</item>
+        <item >20</item>
+        <item >30</item>
+        <item >60</item>
+        <item >90</item>
+        <item >120</item>
+        <item >240</item>
+    </string-array>
+    <string-array name="spRepeateTimesValue">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+    </string-array>
+</resources>

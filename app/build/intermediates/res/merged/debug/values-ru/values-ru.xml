@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listAccelerometer">
+   <item>1</item>
+   <item>2</item>
+   <item>3</item>
+   <item>4</item>
+   <item>5</item>
+   <item>6</item>
+   <item>7</item>
+   <item>8</item>
+   <item>9</item>
+   <item>10</item>
+</string-array>
+    <string-array name="listArray">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>
+</string-array>
+    <string-array name="listValues">
+   <item>10</item>
+   <item>20</item>
+   <item>30</item>
+   <item>40</item>
+   <item>50</item>
+   <item>60</item>
+   <item>120</item>
+   <item>180</item>
+   <item>240</item>
+   <item>300</item>
+   <item>360</item>
+   <item>420</item>   
+</string-array>
+    <string-array name="listVideoQuality">
+   <item>Низкое</item>
+   <item>Среднее</item>
+   <item>Высокое</item>
+   </string-array>
+    <string-array name="menuCongratulationTypesActivity_buttonMenu">
+        <item>Инструкция</item>
+        <item>Вопросы</item>
+        <item>Оцените программу</item>
+        <item>Рассказать другу</item>
+        <item>Настройки</item>
+        <item>Больше опций</item>
+        <item>Follow Us on Twitter</item>
+    </string-array>
+    <string-array name="spRepeateTimes">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>240</item>
+    </string-array>
+    <string-array name="spRepeateTimesInMinutes">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="spRepeateTimesInMinutesValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="spRepeateTimesValue">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="ac_addmessage_additional_options">Дополнительные опции</string>
+    <string name="ac_addmessage_camera">камера</string>
+    <string name="ac_addmessage_contact_removed">контакт удалён</string>
+    <string name="ac_addmessage_contacts">Контакты</string>
+    <string name="ac_addmessage_create_message">Создать сообщение</string>
+    <string name="ac_addmessage_delete_query">Удалить номер?</string>
+    <string name="ac_addmessage_destination_numbers">Номер адресата</string>
+    <string name="ac_addmessage_dictophone">диктофон</string>
+    <string name="ac_addmessage_email">email</string>
+    <string name="ac_addmessage_email_failed">Введите коректный емеил и пароль в настройках приложения</string>
+    <string name="ac_addmessage_hide_from_history">Не показывать в истории sms</string>
+    <string name="ac_addmessage_name_of_panic">Название (до 20 знаков)</string>
+    <string name="ac_addmessage_name_of_widget">Имя виджета (до 12 знаков)</string>
+    <string name="ac_addmessage_no">нет</string>
+    <string name="ac_addmessage_no_contact_name">не указано имя</string>
+    <string name="ac_addmessage_one_click">один клик</string>
+    <string name="ac_addmessage_ones_every">Длительность каждого ролика:</string>
+    <string name="ac_addmessage_phone_numbers">телефонные номера</string>
+    <string name="ac_addmessage_record_enable">Делать запись</string>
+    <string name="ac_addmessage_save_and_exit">Сохранить и выйти</string>
+    <string name="ac_addmessage_send">Сколько раз записать и отправить:</string>
+    <string name="ac_addmessage_send_options">Опции отправки</string>
+    <string name="ac_addmessage_show_rec_full_screen">экран</string>
+    <string name="ac_addmessage_show_rec_notification_area">панель уведомлений</string>
+    <string name="ac_addmessage_show_recording_status">Показывать статус записи</string>
+    <string name="ac_addmessage_text_of_panic">Текст</string>
+    <string name="ac_addmessage_two_clicks">два клика</string>
+    <string name="ac_addmessage_widget_on_desktop">создать виджет на рабочем столе</string>
+    <string name="ac_addmessage_yes">да</string>
+    <string name="ac_messages_list_choose_action_message">Выберите действие</string>
+    <string name="ac_messages_list_copy_message">копировать</string>
+    <string name="ac_messages_list_delete_message">удалить</string>
+    <string name="ac_messages_list_warning_message_copied">Сообщение скопировано</string>
+    <string name="ac_messages_list_warning_message_deleted">Сообщение удалено</string>
+    <string name="accelerometer_preferences_title">Чувствительность акселерометра</string>
+    <string name="app_name">Тревожная кнопка</string>
+    <string name="button_contacts">Ваши контакты</string>
+    <string name="button_text">обновить</string>
+    <string name="cbStrobSos">Сигнал SOS (фонариком)</string>
+    <string name="destination_adress">Адрес назначения:</string>
+    <string name="dialog_alert_title">Error!</string>
+    <string name="dialog_btn_login_activity">Ok</string>
+    <string name="dialog_cell_title">Code of cell</string>
+    <string name="dialog_message_cell_list_cantScanCode">Can not scan code</string>
+    <string name="dialog_message_cell_list_cellCanNotRemoved">Cell can not removed</string>
+    <string name="dialog_message_cell_list_cellRemoved">Cell removed</string>
+    <string name="dialog_message_cell_list_cellWasNotSet">Cell was not set</string>
+    <string name="dialog_message_cell_list_cellWasSet">Cell was set</string>
+    <string name="dialog_message_cell_list_resItemIsNull">Invalid code</string>
+    <string name="dialog_message_error">Unknown error</string>
+    <string name="dialog_message_goods_list_headerIsEmpty">Document not found</string>
+    <string name="dialog_message_goods_list_resItemIsNull">Invalid code</string>
+    <string name="dialog_message_input_by_keyboard_barcode_empty_warning">Please, enter value!</string>
+    <string name="dialog_message_login_activity">Invalid login or password</string>
+    <string name="dialog_message_server_not_found">Server not found or not response!</string>
+    <string name="dlg_massage_intetrnet_unavailable">Internet is unavailable.</string>
+    <string name="large_widget_name">Тревожная кнопка 2x4</string>
+    <string name="mail_default_account">default@server.com</string>
+    <string name="mail_default_port">465</string>
+    <string name="mail_default_smtp_server">smtp.server.com</string>
+    <string name="mail_gmail_smtp_server">smtp.gmail.com</string>
+    <string name="not_valid_number">Не верный формат одного или нескольких номеров. Они не были сохранены</string>
+    <string name="ones_minutes_preferences_title">Количество вспышек в минуту</string>
+    <string name="pref_accelerometer_key">чувствительность</string>
+    <string name="pref_accelerometer_summary">Чувствительность акселерометра</string>
+    <string name="pref_email_address_dialog_title">Введите полный адрес</string>
+    <string name="pref_email_address_key">email_address</string>
+    <string name="pref_email_address_summary">Email для отправки видео или аудио</string>
+    <string name="pref_email_address_title">Адрес email</string>
+    <string name="pref_email_password_dialog_title">Введите пароль электронной почты</string>
+    <string name="pref_email_password_key">email_password</string>
+    <string name="pref_email_password_summary">Пароль для email</string>
+    <string name="pref_email_password_title">Пароль</string>
+    <string name="pref_email_smtp_port_dialog_title">Введите порт вашего SMTP-сервера (для SSL)</string>
+    <string name="pref_email_smtp_port_key">smtp_port</string>
+    <string name="pref_email_smtp_port_summary">Порт SMTP-сервера (SSL)</string>
+    <string name="pref_email_smtp_port_title">Порт SMTP-сервера</string>
+    <string name="pref_email_smtp_server_dialog_title">Введите адрес SMTP-сервера</string>
+    <string name="pref_email_smtp_server_key">smtp_server</string>
+    <string name="pref_email_smtp_server_summary">URL для SMTP-сервера</string>
+    <string name="pref_email_smtp_server_title">Адрес SMTP-сервера</string>
+    <string name="pref_ones_minutes_key">pref_ones_minutes_key</string>
+    <string name="pref_ones_minutes_summary">Сколько раз в минуту телефон будет посылать SOS</string>
+    <string name="pref_server_side_header">Настройки электронной почты</string>
+    <string name="pref_shake_key">shake_time</string>
+    <string name="pref_shake_summary">Время, после чего возможность отправки путем встряхивания неактивно</string>
+    <string name="pref_shake_title">Таймер, чтобы прекратить отправку встряхиванием</string>
+    <string name="pref_strob_minutes_key">pref_strob_minutes_key</string>
+    <string name="pref_strob_minutes_summary">Сколько минут ваш телефон будет посылать SOS</string>
+    <string name="pref_strob_minutes_title">Сколько минут</string>
+    <string name="pref_video_angle_key">pref_video_angle_key</string>
+    <string name="pref_video_angle_summary">На какой угол поворачивать изображение</string>
+    <string name="pref_video_angle_title">Угол поворота изображения</string>
+    <string name="pref_video_quality_summary">Качество записываемого видео</string>
+    <string name="pref_video_quality_title">Качество видео</string>
+    <string name="put_your_message">Введите текст здесь</string>
+    <string name="shake_preferences">Настройки отправки встряхиванием телефона</string>
+    <string name="share">Поделиться</string>
+    <string name="shareSubject">Тревожная кнопка для Android</string>
+    <string name="shareText">У вас проблема? Сообщите друзьям об этом в один клик. Также они узнают ваше местонахождение!</string>
+    <string name="small_widget_name">Тревожная кнопка 1x1</string>
+    <string name="statuBarRecord">Тревожная кнопка: запись</string>
+    <string name="strob_cancel">Выключить вспышку?</string>
+    <string name="strob_preferences">Настройки сигнала SOS (фонариком)</string>
+    <string name="text_email_message">Mail.</string>
+    <string name="text_instruction">        Инструкция:
+        \n\n<a href="http://androids.ru/i/ipanic.htm">Инструкция, FAQ</a>        \n\n</string>
+    <string name="text_message">Текст сообщения:</string>
+    <string name="text_send_mail">Sending mail...</string>
+    <string name="tvRepeateTimes">Сколько минут</string>
+    <string name="tvRepeateTimesInMinutes">Сколько раз в минуту</string>
+</resources>

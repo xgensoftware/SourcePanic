@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_provider_large.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\xml\\widget_provider_large.xml"
+    },
+    {
+        "merged": "E:\\Development\\Source panic\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_provider.xml",
+        "source": "E:\\Development\\Source panic\\app\\src\\main\\res\\xml\\widget_provider.xml"
+    }
+]

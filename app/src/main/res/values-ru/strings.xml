@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mail_default_account">default@server.com</string>
+    <string name="mail_default_port">465</string>
+    <string name="mail_default_smtp_server">smtp.server.com</string>
+    <string name="mail_gmail_smtp_server">smtp.gmail.com</string>
+    
+    <string name="app_name">Тревожная кнопка</string>
+    <string name="destination_adress">Адрес назначения:</string>
+    <string name="text_message">Текст сообщения:</string>
+    <string name="button_text">обновить</string>
+    <string name="put_your_message">Введите текст здесь</string>
+    <string name="not_valid_number">Не верный формат одного или нескольких номеров. Они не были сохранены</string>
+    <string name="button_contacts">Ваши контакты</string>
+        <string name="small_widget_name">Тревожная кнопка 1x1</string>
+        <string name="large_widget_name">Тревожная кнопка 2x4</string>
+        <string name="statuBarRecord">Тревожная кнопка: запись</string>
+        <string name="strob_cancel">Выключить вспышку?</string>
+
+</resources>

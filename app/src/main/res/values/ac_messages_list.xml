@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ac_messages_list_copy_message">copy</string>
+    <string name="ac_messages_list_delete_message">delete</string>
+    <string name="ac_messages_list_choose_action_message">select the action</string>
+    <string name="ac_messages_list_warning_message_deleted">message is deleted</string>
+    <string name="ac_messages_list_warning_message_copied">message is copied</string>
+    <string name="share">Tell a friend</string>
+    <string name="shareSubject">Panic button on your phone</string>
+    <string name="shareText">Problem? Danger? Tell your friends about this in one click. And they will know your location.</string>
+    <string name="text_send_mail">Sending mail...</string>
+    <string name="text_email_message">Mail.</string>
+    <string name="button_add">add new</string>
+    <string name="cb_activate">active</string>
+    <string name="cb_shake">shake </string>
+    <string name="button_send">send </string>
+    <string name="messages_list">messages list </string>
+
+    <string-array name="menuCongratulationTypesActivity_buttonMenu">
+        <item>Instruction</item>
+        <item>Questions</item>
+        <item>Rate</item>
+        <item>Tell a friend</item>
+        <item>Settings</item>
+        <item>Upgrade</item>
+        <item>Follow Us on Twitter</item>
+    </string-array>
+
+    <string name="text_instruction">        Instruction:
+        \n\n<a href="http://androids.ru/i/ipanic.htm">Instruction, FAQ, news</a>        \n\n</string>
+
+</resources>
